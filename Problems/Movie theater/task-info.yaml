@@ -1,6 +1,6 @@
 type: code
 files:
-- name: task.py
+- name: task2.py
   visible: true
   text: '# put your python code here'
   learner_created: false
