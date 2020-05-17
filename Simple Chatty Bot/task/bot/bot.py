@@ -21,6 +21,9 @@ print('Now I will prove to you that I can count to any number you want.')
 n = int(input())
 i = 0
 while i < 21:
+
+
+
     print(str(i) + " !")
     i += 1
 print('Completed, have a nice day!')
